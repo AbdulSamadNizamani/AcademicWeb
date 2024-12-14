@@ -1,0 +1,104 @@
+{
+    "Courses":[
+        {
+            "id": 1,
+            "title": "Guitar Fundamental",
+            "slug": "Guitar-fundamental",
+            "description": "Learn the basics about playing guitars",
+            "price":99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image":"./guitar.jpg",
+            "link": "/Guitar"
+
+        },
+        {
+            "id": 2,
+            "title": "Piano for Beginners",
+            "slug": "Piano-for-Beginners",
+            "description": "Start your musical journey by learning severe roules of it",
+            "price":109.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image":"/Courses/piano.jpg",
+            "link": "/technical"
+        },
+        {
+            "id": 3,
+            "title": "Advance Vocal Techniques",
+            "slug": "Advance-Vocal-Techniques",
+            "description": "Enhance your singing skills with advance vocals techniques",
+            "price":119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image":"/computerskill.webp",
+            "link": "/technical"
+        },
+        {
+            "id": 4,
+            "title": "Druming Mastery",
+            "slug": "Druming-Mastery",
+            "description": "Master the drums with our comprehensive courses",
+            "price":129.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image":"/Courses/druming.jpg",
+            "link": "/Guitar"
+        },
+        {
+            "id": 5,
+            "title": "Jazz Improvisation",
+            "slug": "Jazz-Improvisation",
+            "description": "Learn the art of improvisation with this course and raise your level",
+            "price":139.99,
+            "instructor": "Chris Deval",
+            "isFeatured": false,
+            "image":"/Courses/jazz.jpg",
+            "link": "/Guitar"
+        },
+        {
+            "id": 6,
+            "title": "Telecore Improvisation",
+            "slug": "Telecore-Improvisation",
+            "description": "Learn the art of telecomunication with this course and raise your level with the great expression",
+            "price":139.99,
+            "instructor": "Chris Deval",
+            "isFeatured": false,
+            "image":"/Courses/telecore.jpg",
+            "link": "/Guitar"
+        },
+        {
+            "id": 7,
+            "title": "Agricultural Interior Techniques",
+            "slug": "Advance-Vocal-Techniques",
+            "description": "Graduates with a degree in agriculture can pursue careers in: farming, agribusiness, research, agricultural extension services, and rural development initiatives. ",
+            "price":119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image":"skill.jpg",
+            "link": "/Guitar"
+        },
+        {
+            "id": 8,
+            "title": "Training-Factual-Course",
+            "slug": "Training-Factual-Course",
+            "description": "join our training course today and master new skills for success",
+            "price":119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image":"skill2.jpg",
+            "link": "/Guitar"
+        },
+        {
+            "id": 9,
+            "title": "Modern-Signal-Technical-Course",
+            "slug": "Advance-Vocal-Techniques",
+            "description": "Master the art of seamless communication with our Signal Skill Course! Enhance your messaging expertise and stay ahead in the digital world.",
+            "price":119.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image":"skill3.jpg",
+            "link": "/Guitar"
+        }
+    ]
+}
